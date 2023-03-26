@@ -12,6 +12,8 @@ name= 'mayur'
 read= age
 '
 echo "Enter your name:"
-name= 'nishant'
+read name
 echo "Enter your age:"
-read= age
+read age
+
+echo "Hi $name your name is $age"
