@@ -16,4 +16,4 @@ read name
 echo "Enter your age:"
 read age
 
-echo "Hi $name your name is $age"
+echo "Hi $name your age is $age"
